@@ -1,5 +1,6 @@
 sentence-transformers==2.2.2
 langchain
+gunicorn==22.0.0
 flask
 pypdf
 python-dotenv
